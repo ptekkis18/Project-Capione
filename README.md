@@ -7,3 +7,13 @@ A HoloLens-based assistive interface for dynamic hip screw surgery
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/971eaa61-a5b0-4970-ab84-39e66d1ac131" width="200" height="200" />
 </p>
+
+# Project Overview 
+
+# Objectives
+
+# Hardware and Software
+
+# Project Outcomes
+
+# Future Improvements 
